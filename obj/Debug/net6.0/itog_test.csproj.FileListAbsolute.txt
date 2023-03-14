@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\itog_test.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\itog_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\itog_test.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\itog_test.AssemblyInfo.cs
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\itog_test.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\GeekBrains\itog_test\bin\Debug\net6.0\itog_test.exe
+C:\Users\acer\Desktop\GeekBrains\itog_test\bin\Debug\net6.0\itog_test.deps.json
+C:\Users\acer\Desktop\GeekBrains\itog_test\bin\Debug\net6.0\itog_test.runtimeconfig.json
+C:\Users\acer\Desktop\GeekBrains\itog_test\bin\Debug\net6.0\itog_test.dll
+C:\Users\acer\Desktop\GeekBrains\itog_test\bin\Debug\net6.0\itog_test.pdb
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\itog_test.dll
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\refint\itog_test.dll
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\itog_test.pdb
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\itog_test.genruntimeconfig.cache
+C:\Users\acer\Desktop\GeekBrains\itog_test\obj\Debug\net6.0\ref\itog_test.dll
